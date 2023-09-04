@@ -1,0 +1,11 @@
+Non sono riuscito a trovare un modo efficace per fare la differenza tra pro e pro2, 
+quindi non ho fatto la differenza e lo ho considerato come un unico device
+
+il file config.txt dovrà essere strutturato cosi
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+<Nome del device>
+<Numero di sensori>
+
+---------------------------------------------------------------------------------------------------------------------------------------
